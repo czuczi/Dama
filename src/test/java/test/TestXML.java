@@ -34,7 +34,7 @@ public class TestXML {
 	private XML xml;
 	
 	@Rule
-	public TemporaryFolder folder= new TemporaryFolder();
+	public TemporaryFolder folder = new TemporaryFolder();
 	
 	@Before
 	public void Inicializalas(){
