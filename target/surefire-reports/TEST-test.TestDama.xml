@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.717" errors="0" skipped="0" tests="6" name="test.TestDama">
+<testsuite failures="0" time="0.65" errors="0" skipped="0" tests="6" name="test.TestDama">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_40\jre\bin"/>
@@ -63,9 +63,9 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="0.405" classname="test.TestDama" name="kezdoLepesTeszt"/>
-  <testcase time="0.234" classname="test.TestDama" name="teljesJatekTeszt"/>
-  <testcase time="0.078" classname="test.TestDama" name="masikTeljesJatekTeszt"/>
+  <testcase time="0.38" classname="test.TestDama" name="kezdoLepesTeszt"/>
+  <testcase time="0.2" classname="test.TestDama" name="teljesJatekTeszt"/>
+  <testcase time="0.07" classname="test.TestDama" name="masikTeljesJatekTeszt"/>
   <testcase time="0" classname="test.TestDama" name="utes"/>
   <testcase time="0" classname="test.TestDama" name="nemLephet"/>
   <testcase time="0" classname="test.TestDama" name="lepesKenyszer"/>
