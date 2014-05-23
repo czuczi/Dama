@@ -1,4 +1,4 @@
-10:03:20.874 [AWT-EventQueue-0] INFO  csomag.Jatekos - 
+08:28:33.464 [main] INFO  csomag.Jatekos - 
 8 s 0 s 0 s 0 s 0
 7 0 s 0 s 0 s 0 s
 6 s 0 s 0 s 0 s 0
@@ -8,25 +8,1753 @@
 2 v 0 v 0 v 0 v 0
 1 0 v 0 v 0 v 0 v
   a b c d e f g h
-10:03:20.874 [AWT-EventQueue-0] INFO  csomag.Jatekos - Világos következik
-10:03:25.461 [AWT-EventQueue-0] INFO  csomag.Jatekos - 
+08:28:33.464 [main] INFO  csomag.Jatekos - 
 8 s 0 s 0 s 0 s 0
 7 0 s 0 s 0 s 0 s
 6 s 0 s 0 s 0 s 0
 5 0 0 0 0 0 0 0 0
-4 0 0 0 0 v 0 0 0
-3 0 v 0 0 0 v 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 v
 2 v 0 v 0 v 0 v 0
 1 0 v 0 v 0 v 0 v
   a b c d e f g h
-10:03:25.461 [AWT-EventQueue-0] INFO  csomag.Jatekos - 
+08:28:33.464 [main] INFO  csomag.Jatekos - 
 8 s 0 s 0 s 0 s 0
 7 0 s 0 s 0 s 0 s
 6 s 0 s 0 s 0 s 0
 5 0 0 0 0 0 0 0 0
-4 0 0 0 0 v 0 0 0
-3 0 v 0 0 0 v 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 v
 2 v 0 v 0 v 0 v 0
 1 0 v 0 v 0 v 0 v
   a b c d e f g h
-10:03:25.461 [AWT-EventQueue-0] INFO  csomag.Jatekos - Sötét következik
+08:28:33.464 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 s 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.464 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 s 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.464 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 s 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.464 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 0 0 s 0 s 0 s 0
+5 0 s 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 s 0 s 0
+5 0 0 0 s 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 s 0 s 0
+5 0 0 0 s 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 s 0 0 0
+3 0 v 0 v 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 s 0 s 0
+5 0 0 0 0 0 v 0 0
+4 0 0 0 0 0 0 0 0
+3 0 v 0 0 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 s 0
+3 0 v 0 0 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 s 0
+5 0 0 0 0 0 0 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 0 0 0 0 v
+2 0 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 s 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 0 0 0 0 v
+2 0 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 s 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 0 0 0 0 v
+2 v 0 v 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 0 0 0 0 0 0 s 0
+3 0 v 0 0 0 0 0 v
+2 v 0 v 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 v 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 0 0 0 0 0
+2 v 0 v 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 s 0 s 0 s
+6 v 0 s 0 0 0 0 0
+5 0 0 0 0 0 v 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 0 0 0 0 0
+2 v 0 v 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.480 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 s 0 s 0 s
+6 v 0 s 0 0 0 0 0
+5 0 0 0 0 0 v 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 0 0 0
+2 v 0 0 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 s 0 v 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 0 0 0
+2 v 0 0 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 s 0 v 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 0 0 0
+2 v 0 v 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 v 0 v
+4 0 0 0 0 s 0 0 0
+3 0 v 0 v 0 0 0 0
+2 v 0 v 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 v 0 v
+4 0 0 0 0 s 0 0 0
+3 0 v 0 v 0 v 0 0
+2 v 0 v 0 0 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 s 0 0 0
+5 0 0 0 0 0 v 0 v
+4 0 0 0 0 s 0 0 0
+3 0 v 0 v 0 v 0 0
+2 v 0 v 0 0 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 s 0 0 0
+5 0 0 0 v 0 v 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 0 0 0
+2 v 0 v 0 0 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 0 0 0 0 s 0
+3 0 v 0 v 0 0 0 0
+2 v 0 v 0 0 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 0 0 0 0 s 0
+3 0 v 0 v 0 0 0 0
+2 v 0 v 0 v 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 0 0 s
+2 v 0 v 0 v 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 s
+2 v 0 v 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 0
+2 v 0 v 0 0 0 0 0
+1 0 0 0 0 0 $ 0 v
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 0
+2 v 0 v 0 0 0 v 0
+1 0 0 0 0 0 $ 0 0
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 $
+2 v 0 v 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 $
+2 v 0 v 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.496 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 0
+2 v 0 v 0 0 0 $ 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 v 0 0 0 0 0
+3 0 v 0 v 0 v 0 0
+2 0 0 v 0 0 0 $ 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 v 0 $ 0 0 0
+3 0 v 0 v 0 0 0 0
+2 0 0 v 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 $ 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 0 0 v 0 0 0 0 0
+3 0 v 0 v 0 0 0 0
+2 0 0 v 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 $ 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 v 0 v 0 0 0 0 0
+3 0 0 0 v 0 0 0 0
+2 0 0 v 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 $ 0 0 0 v
+4 v 0 v 0 0 0 0 0
+3 0 0 0 v 0 0 0 0
+2 0 0 v 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 v 0 0 0
+5 0 0 0 0 0 0 0 v
+4 v 0 0 0 0 0 0 0
+3 0 0 0 v 0 0 0 0
+2 0 0 v 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 s 0 0 0 v
+4 v 0 0 0 0 0 0 0
+3 0 0 0 v 0 0 0 0
+2 0 0 v 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 s 0 0 0 v
+4 v 0 0 0 0 0 0 0
+3 0 v 0 v 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 v 0 0 0 s 0 0 0
+3 0 v 0 v 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 v 0 v
+4 v 0 0 0 0 0 0 0
+3 0 v 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 0
+6 v 0 0 0 0 0 s 0
+5 0 0 0 0 0 v 0 v
+4 v 0 0 0 0 0 0 0
+3 0 v 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 v 0 0 0 0 0 0 0
+3 0 v 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.511 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 s 0 0 0 0 0 v
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 v 0 0 0 0 0 0 0
+3 0 v 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 s 0 0 0 0 0 v
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 v 0 v 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 v 0 s 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 v 0 v 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 v 0 s 0 0 0 0 0
+5 0 v 0 0 0 0 0 v
+4 0 0 v 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 s 0 v 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 s 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 v 0 0 0 0 0 0 0
+5 0 0 0 v 0 0 0 v
+4 0 0 0 0 0 0 0 0
+3 0 s 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 v 0 0 0 v 0 0 0
+5 0 0 0 0 0 0 0 v
+4 0 0 0 0 0 0 0 0
+3 0 s 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 v 0 0 0 v 0 0 0
+5 0 0 0 0 0 0 0 v
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 s 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 v 0 0 0 v 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 s 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 v 0 0 0 v 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 $ 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 s 0 s 0 s 0
+7 0 v 0 0 0 0 0 v
+6 0 0 0 0 v 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 $ 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 s 0 s 0
+7 0 0 0 0 0 0 0 v
+6 s 0 0 0 v 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 $ 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 s 0 s 0
+7 0 0 0 0 0 v 0 v
+6 s 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 $ 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 s 0 0 0
+7 0 0 0 0 0 0 0 v
+6 s 0 0 0 s 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 $ 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 s 0 0 0
+7 0 0 0 0 0 v 0 v
+6 s 0 0 0 s 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 $ 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 v
+6 s 0 0 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 $ 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 w 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 $ 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 w 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 $ 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 w
+6 s 0 0 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 $ 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 w
+6 s 0 0 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 $ 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 s 0 0 0
+5 0 0 0 0 0 w 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 $ 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 w 0 0 0 0
+6 s 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 $ 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 w 0 0 0 0
+6 s 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 $ 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 w 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 $ 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 w 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 $
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 0 0 0 0
+5 0 0 0 0 0 w 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 $
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 0 0 0 0
+5 0 0 0 0 0 w 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 $ 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 w 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 $ 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 w 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 $
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 w
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 $
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 w
+2 0 0 0 0 0 0 $ 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.527 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 s 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 w 0 0
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 s 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 w 0 0
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 s 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 w 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 s 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 w 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 s 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 w
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 s 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 w
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 s 0 0 0 0
+2 0 0 0 0 0 0 w 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 s 0 w 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 s 0 0 0
+1 0 0 0 0 0 0 0 w
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 $ 0 w
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 w 0
+1 0 0 0 0 0 $ 0 0
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 $
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 s 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 0 0 s 0 s 0 s 0
+5 0 s 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 0 0 s 0 s 0 s 0
+5 0 s 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 0 0 s 0 s 0 s 0
+5 0 s 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 s 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 0 0 s 0 s 0 s 0
+5 0 s 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 s 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 s 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 s 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 0 0 s 0 s 0 s 0
+5 0 s 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 s 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 s 0 s 0
+5 0 s 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 s 0 s 0
+5 0 s 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 s 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 v 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 s 0 s 0
+5 0 0 0 0 0 0 0 0
+4 s 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 s 0
+5 0 0 0 s 0 0 0 0
+4 s 0 0 0 0 0 0 0
+3 0 v 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 s 0
+5 0 0 0 s 0 0 0 0
+4 s 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 s 0
+5 0 0 0 0 0 0 0 0
+4 s 0 0 0 0 0 0 0
+3 0 s 0 v 0 v 0 v
+2 v 0 v 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 s 0
+5 0 0 0 0 0 0 0 0
+4 s 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 v 0 0 0 0 0
+3 0 s 0 v 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 s 0
+5 0 0 0 0 0 0 0 0
+4 v 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 s 0 0
+4 v 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 v 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 s 0 0
+4 v 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 v 0 v 0 s 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 s 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 v 0 0
+4 v 0 v 0 0 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 s 0 s 0 s
+6 v 0 s 0 0 0 0 0
+5 0 0 0 0 0 v 0 0
+4 v 0 v 0 0 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 v 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 s 0 s 0 s
+6 v 0 s 0 0 0 0 0
+5 0 0 0 0 0 v 0 0
+4 v 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 s 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 s 0 0 0 v 0 0
+4 v 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 s 0 s 0 s
+6 v 0 v 0 0 0 0 0
+5 0 0 0 0 0 v 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 s 0 0 0 v 0 0
+4 0 0 v 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 s 0 0 0 v 0 0
+4 0 0 v 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 v 0 0
+4 0 0 0 0 v 0 0 0
+3 0 0 0 s 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 s 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 v 0 0
+4 0 0 v 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 0 0 0 0 s
+6 v 0 0 0 s 0 0 0
+5 0 0 0 0 0 v 0 0
+4 0 0 v 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 s 0 s 0 s 0
+7 0 0 0 v 0 0 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 v 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 0 0 s 0 s 0
+7 0 0 0 0 0 0 0 s
+6 v 0 0 0 s 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 v 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 v 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 0 0 s 0 s 0
+7 0 0 0 0 0 0 0 s
+6 v 0 0 0 s 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 v 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 0 0 s 0 s 0
+7 0 0 0 0 0 0 0 s
+6 v 0 0 0 0 0 0 0
+5 0 0 0 s 0 0 0 0
+4 0 0 v 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 0 0 s 0 s 0
+7 0 0 0 0 0 0 0 s
+6 v 0 0 0 v 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 0 0 s 0 s 0
+7 0 0 0 0 0 0 0 0
+6 v 0 0 0 v 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 v 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 0 0 s 0 s 0
+7 0 0 0 0 0 0 0 0
+6 v 0 0 0 v 0 s 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 v 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 0 0 s 0 s 0
+7 0 0 0 0 0 0 0 0
+6 v 0 0 0 v 0 0 0
+5 0 0 0 0 0 s 0 0
+4 0 0 0 0 v 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 s 0 0 0 s 0 s 0
+7 0 0 0 0 0 0 0 0
+6 v 0 0 0 v 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 s 0 s 0
+7 0 s 0 0 0 0 0 0
+6 v 0 0 0 v 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 s 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 v 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 s 0 0 0 0
+6 0 0 0 0 v 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 v 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 s 0 0 0 0
+6 0 0 0 0 v 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 s 0 0
+4 0 0 0 0 v 0 0 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.542 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 s 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 v 0
+3 0 0 0 s 0 0 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 v 0
+3 0 0 0 0 0 0 0 v
+2 0 0 s 0 0 0 v 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 v 0
+3 0 0 0 0 0 v 0 v
+2 0 0 s 0 0 0 0 0
+1 0 0 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 v 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 0 0 0 0
+1 0 $ 0 0 0 0 0 v
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 v 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 0 0 v 0
+1 0 $ 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 v 0
+3 0 0 0 0 0 v 0 v
+2 0 0 $ 0 0 0 v 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 v 0 v 0
+3 0 0 0 0 0 0 0 v
+2 0 0 $ 0 0 0 v 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 v 0 v 0
+3 0 0 0 $ 0 0 0 v
+2 0 0 0 0 0 0 v 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 v 0 v 0
+3 0 0 0 $ 0 v 0 v
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 $ 0 0
+4 0 0 0 0 0 0 v 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 $
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 v 0
+3 0 0 0 0 0 v 0 v
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 $
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 v 0 v 0
+3 0 0 0 0 0 0 0 v
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 $ 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 v 0 v 0
+3 0 0 0 0 0 0 0 v
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 $ 0
+5 0 0 0 0 0 v 0 0
+4 0 0 0 0 0 0 v 0
+3 0 0 0 0 0 0 0 v
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 $ 0 v 0
+3 0 0 0 0 0 0 0 v
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 0 0 0 0 $ 0 0 0
+3 0 0 0 0 0 0 0 v
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 $ 0 v
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 v
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 $ 0 v
+4 0 0 0 0 0 0 v 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 v
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 $
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 $
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 0
+6 0 0 0 0 0 0 v 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 $ 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 v
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 $ 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 v
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 $
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 s 0
+7 0 w 0 0 0 0 0 v
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 $
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 s 0
+7 0 w 0 0 0 0 0 v
+6 0 0 0 0 0 0 $ 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 0 0 v
+6 0 0 0 0 0 0 $ 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 0 0 $ 0 v
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 s 0
+7 0 w 0 0 0 $ 0 v
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 $ 0 s 0
+7 0 w 0 0 0 0 0 v
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 $ 0 s 0
+7 0 0 0 0 0 0 0 v
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 w 0 0 0 s 0
+7 0 0 0 $ 0 0 0 v
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 s 0
+7 0 0 0 0 0 0 0 v
+6 0 0 0 0 w 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 0 0
+7 0 0 0 0 0 s 0 v
+6 0 0 0 0 w 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
+08:28:33.558 [main] INFO  csomag.Jatekos - 
+8 0 0 0 0 0 0 w 0
+7 0 0 0 0 0 0 0 v
+6 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 0 0 0
+4 0 0 0 0 0 0 0 0
+3 0 0 0 0 0 0 0 0
+2 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0
+  a b c d e f g h
