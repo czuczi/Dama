@@ -6,6 +6,12 @@
 -->
 <configuration scan="false">
 
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %boldBlue(%.-1level) %logger{36} - %msg%n</pattern>
+		</encoder>
+	</appender>
+    
 	<appender name="FILE1" class="ch.qos.logback.core.FileAppender">
 		<file>messages.log</file>
 		<append>false</append>
@@ -17,6 +23,7 @@
 		A gyökér logger mindent naplóz
 	-->
 	<root level="ALL">
+	    <appender-ref ref="STDOUT"/>
 		<appender-ref ref="FILE1"/>
 	</root>
 
@@ -30,6 +37,6 @@
 		eljussanak a gyökér logger-hez, így az állományokban is
 		megjelenjenek.
 	-->
-	<logger name="csomag.Logger" level="ALL" additivity="true"/>
+	<logger name="csomag.GUI" level="ALL" additivity="true"/>
 
 </configuration>

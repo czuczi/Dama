@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="1.2" errors="0" skipped="0" tests="1" name="test.TestXML">
+<testsuite failures="0" time="1.86" errors="0" skipped="0" tests="1" name="test.TestXML">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_40\jre\bin"/>
@@ -26,7 +26,6 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="net.sourceforge.cobertura.datafile" value="C:\Egyetem\4. félév\beadandó\Dama\target\cobertura\cobertura.ser"/>
     <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.2.1\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1250"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_40\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\x64;C:\Python27;C:\Program Files (x86)\CodeBlocks\MinGW\bin;C:\Program Files\Java\jdk1.7.0_40\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;C:\Program Files\MiKTeX 2.9\miktex\bin\x64;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit;C:\Program Files\MATLAB\R2013b\runtime\win64;C:\Program Files\MATLAB\R2013b\bin;C:\Program Files\apache-ant-1.9.3\bin;C:\Program Files\apache-maven-3.2.1\bin;C:\Program Files (x86)\Git\cmd;."/>
@@ -45,7 +44,7 @@
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_40\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher site"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="hu"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -59,9 +58,8 @@
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="project.build.outputDirectory" value="C:\Egyetem\4. félév\beadandó\Dama\target\generated-classes\cobertura"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="1.2" classname="test.TestXML" name="MentesBetoltesSokszor"/>
+  <testcase time="1.86" classname="test.TestXML" name="MentesBetoltesSokszor"/>
 </testsuite>

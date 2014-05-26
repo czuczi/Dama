@@ -174,7 +174,7 @@ public class GUI implements ActionListener{
 					if(t.isKovetkezo()){
 						vilagos.lep(gombNev1, gombNev2, t);
 					}
-					if(!t.isKovetkezo()){
+					else if(!t.isKovetkezo()){
 						sotet.lep(gombNev1, gombNev2, t);
 					}
 					
